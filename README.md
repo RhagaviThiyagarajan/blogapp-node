@@ -1,6 +1,7 @@
 # PORTFOLIO-BlogApp-frontend:
 
-https://github.com/RhagaviThiyagarajan/PORTFOLIO-BlogApp-Frontend.git
+backend deployment link-HEROKU
+https://blogapp-node-portfolio.herokuapp.com/
 
 
 
@@ -10,7 +11,7 @@ routes
 
 1)AUTH
 
-http://localhost:6000/api/auth/register
+//blogapp-node-portfolio.herokuapp.com/auth
 
 
 {
@@ -21,7 +22,8 @@ http://localhost:6000/api/auth/register
     "password":"abcd"
 }
 
-http://localhost:6000/api/auth/login
+
+//blogapp-node-portfolio.herokuapp.com/auth/login
 {
     "username":"bla bla",
     "password":"abcd"
@@ -32,6 +34,9 @@ http://localhost:6000/api/auth/login
 
 GET,POST,PUT,DELETE
 
+
+//blogapp-node-portfolio.herokuapp.com/post
+
 http://localhost:6000/api/post||get||delete||put
 
 
@@ -39,9 +44,16 @@ http://localhost:6000/api/post||get||delete||put
 
 put||delete
 
-http://localhost:6000/api/users/63418ecc2aa36112061092c0
+
+//blogapp-node-portfolio.herokuapp.com/users
 
 
+categories
 
-delete with id
+//blogapp-node-portfolio.herokuapp.com/categories
+
+
+upload photos
+
+//blogapp-node-portfolio.herokuapp.com/upload
 
