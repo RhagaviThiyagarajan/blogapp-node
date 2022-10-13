@@ -1,7 +1,7 @@
 # PORTFOLIO-BlogApp-frontend:
 
 backend deployment link-HEROKU
-https://blogapp-node-portfolio.herokuapp.com/
+https://blogapp-node-heroku.herokuapp.com/
 
 
 
@@ -11,7 +11,7 @@ routes
 
 1)AUTH
 
-//blogapp-node-portfolio.herokuapp.com/auth
+https://blogapp-node-heroku.herokuapp.com/auth
 
 
 {
@@ -23,7 +23,7 @@ routes
 }
 
 
-//blogapp-node-portfolio.herokuapp.com/auth/login
+https://blogapp-node-heroku.herokuapp.com/auth/login
 {
     "username":"bla bla",
     "password":"abcd"
@@ -35,7 +35,7 @@ routes
 GET,POST,PUT,DELETE
 
 
-//blogapp-node-portfolio.herokuapp.com/post
+https://blogapp-node-heroku.herokuapp.com/post
 
 http://localhost:6000/api/post||get||delete||put
 
@@ -44,16 +44,14 @@ http://localhost:6000/api/post||get||delete||put
 
 put||delete
 
-
-//blogapp-node-portfolio.herokuapp.com/users
+https://blogapp-node-heroku.herokuapp.com/users
 
 
 categories
 
-//blogapp-node-portfolio.herokuapp.com/categories
+https://blogapp-node-heroku.herokuapp.com/categories
 
 
 upload photos
-
-//blogapp-node-portfolio.herokuapp.com/upload
+https://blogapp-node-heroku.herokuapp.com/upload
 
