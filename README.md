@@ -1,7 +1,7 @@
 # PORTFOLIO-BlogApp-frontend:
 
 backend deployment link-HEROKU
-https://blogapp-node-heroku.herokuapp.com/
+https://blogappbackendheroku.herokuapp.com/
 
 
 
